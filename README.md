@@ -1,1 +1,1 @@
-# young-brains-ai
+# Young Brains AI
